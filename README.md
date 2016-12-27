@@ -1,2 +1,3 @@
 # hello-world
-Testing the environment
+
+This project intends to say hello to the world!
